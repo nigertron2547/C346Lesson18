@@ -10,6 +10,7 @@
     <mapping directory="$PROJECT_DIR$/Lesson11/L11" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson12" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lesson16" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/first-expo-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/onlineCardAppWebService" vcs="Git" />
   </component>
